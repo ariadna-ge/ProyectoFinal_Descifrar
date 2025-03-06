@@ -28,5 +28,4 @@ with open('Diccionario.txt', 'w', encoding='utf-8') as output_file:
     output_file.write(' '.join(palabras_ordenadas))
 
 # Imprime el número total de palabras guardadas
-print(f"Se guardaron {len(palabras_ordenadas)} palabras únicas en el archivo
-'Diccionario.txt'.")
+print(f"Se guardaron {len(palabras_ordenadas)} palabras únicas en el archivo 'Diccionario.txt'.")
