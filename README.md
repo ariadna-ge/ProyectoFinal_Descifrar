@@ -1,4 +1,4 @@
-# DESCIFRAR TEXTO
+# ✨ DESCIFRAR TEXTO ✨
 
 El proyecto se basó en la selección de un archivo específico. Una vez seleccionado, dicho archivo debía ser descifrado para acceder a su contenido. Para ello, se tuvo en cuenta que el texto podía estar en inglés, italiano o francés.
 
@@ -13,9 +13,9 @@ Para lograrlo, se procesa cada texto, una vez leídas las palabras se asegura qu
 En el proyecto, se solicitó la creación de dos diccionarios. Los diccionarios generados son en formato de texto, ***“DiccionarioFrances.txt"*** y ***“DiccionarioItaliano.txt”*** ambos se muestran en la carpeta **'diccionariosGenerados'**.
 
 ### Resultados de terminal
-![Terminal de diccionario en francés](imagenes/captura2.png)
+![Terminal de diccionario en francés](imagenes\captura2.png)
 
-![Terminal de diccionario en italiano](imagnenes/captura.png)
+![Terminal de diccionario en italiano](imagenes\captura.png)
 
 ## Histograma
 
@@ -31,3 +31,21 @@ Al realizar la comparación de los histogramas, la frecuencia obtenida en la gr�
 
 > La comparación de frecuencia se realizó con la ayuda del mismo sitio, para la frecuencia de letras en 
 [**inglés**](https://es.sttmedia.com/frecuencias-de-letras-ingles), [**francés**](https://es.sttmedia.com/frecuencias-de-letras-frances), [**italiano**](https://es.sttmedia.com/frecuencias-de-letras-italiano).
+
+## Resultado final
+Como última parte del proyecto, se reutilizó el mismo código para descifrar ambos textos, de tal forma que se obtuvieron los textos originales.
+
+### Terminal de ambos programas
+![Texto en inglés](imagenes\terminal.png)
+
+![Texto en italiano](imagenes\terminal2.png)
+
+
+
+## Colaboradoras 👩🏼‍💻
+
+El proyecto fue realizado para la materia de ***Diseño y análisis de algoritmos*** en la Facultad de Estudios Superiores Aragón durante el semestre **2025-I**.
+
+🎀  Ariadna Denisse García Estrada  
+🎀 Alexandra Galilea González Arias  
+🎀 Pamela Ramirez Arévalo
