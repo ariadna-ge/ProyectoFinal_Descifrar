@@ -13,9 +13,9 @@ Para lograrlo, se procesa cada texto, una vez leídas las palabras se asegura qu
 En el proyecto, se solicitó la creación de dos diccionarios. Los diccionarios generados son en formato de texto, ***“DiccionarioFrances.txt"*** y ***“DiccionarioItaliano.txt”*** ambos se muestran en la carpeta **'diccionariosGenerados'**.
 
 ### Resultados de terminal
-![Terminal de diccionario en francés](imagenes\captura2.png)
+![Terminal de diccionario en francés](imagenes/captura2.png)
 
-![Terminal de diccionario en italiano](imagenes\captura.png)
+![Terminal de diccionario en italiano](imagenes/captura.png)
 
 ## Histograma
 
@@ -36,9 +36,9 @@ Al realizar la comparación de los histogramas, la frecuencia obtenida en la gr�
 Como última parte del proyecto, se reutilizó el mismo código para descifrar ambos textos, de tal forma que se obtuvieron los textos originales.
 
 ### Terminal de ambos programas
-![Texto en inglés](imagenes\terminal.png)
+![Texto en inglés](imagenes/terminal.png)
 
-![Texto en italiano](imagenes\terminal2.png)
+![Texto en italiano](imagenes/terminal2.png)
 
 
 
