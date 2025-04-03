@@ -46,6 +46,6 @@ Como última parte del proyecto, se reutilizó el mismo código para descifrar a
 
 El proyecto fue realizado para la materia de ***Diseño y análisis de algoritmos*** en la Facultad de Estudios Superiores Aragón durante el semestre **2025-I**.
 
-🎀  Ariadna Denisse García Estrada  
-🎀 Alexandra Galilea González Arias  
-🎀 Pamela Ramirez Arévalo
+🎀  Ariadna Denisse García Estrada **([ariadna-ge](https://github.com/ariadna-ge))**  
+🎀 Alexandra Galilea González Arias **([Galilea44](https://github.com/Galilea44))**  
+🎀 Pamela Ramírez Arevalo **([PomsArevalo](https://github.com/PomsArevalo)**  
