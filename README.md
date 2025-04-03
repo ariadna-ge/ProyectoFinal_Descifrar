@@ -48,4 +48,4 @@ El proyecto fue realizado para la materia de ***Diseño y análisis de algoritmo
 
 🎀  Ariadna Denisse García Estrada **([ariadna-ge](https://github.com/ariadna-ge))**  
 🎀 Alexandra Galilea González Arias **([Galilea44](https://github.com/Galilea44))**  
-🎀 Pamela Ramírez Arevalo **([PomsArevalo](https://github.com/PomsArevalo)**  
+🎀 Pamela Ramírez Arevalo **([PomsArevalo](https://github.com/PomsArevalo))**  
